@@ -25,7 +25,7 @@
 ---
 
 ### 🎓 Education  
-- **B.E. in Computer Science (2025)** - Government Engineering College, K R Pet, Mandya  
+- **B.E. (2025)** - Government Engineering College, K R Pet, Mandya  
 - **Diploma (2020)** - GPT Nagamangala  
 - **SSLC (2018)** - SAC Mayura, Turuvekere  
 
